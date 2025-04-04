@@ -1,4 +1,4 @@
 streamlit
-transformers
+transformers==4.39.3  # Prova una versione recente
 textsum
 pdfminer.six

@@ -1,5 +1,4 @@
 streamlit
-transformers==4.50.3
-torch==2.3.0+cpu
+transformers
 textsum
 pdfminer.six
